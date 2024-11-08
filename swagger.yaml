@@ -31,10 +31,10 @@ paths:
             <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
 
         format: int64
-        in: path
-        name: id
-        required: true
-        type: integer
+          in: path
+          name: id
+          required: true
+          type: integer
 
           
       responses:
