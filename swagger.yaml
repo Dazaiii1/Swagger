@@ -30,11 +30,13 @@ paths:
         - description: |
             <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
 
-          format: int64
-          in: path
-          name: id
-          required: true
-          type: integer
+        format: int64
+        in: path
+        name: id
+        required: true
+        type: integer
+
+          
       responses:
         "200":
           description: No response was specified
