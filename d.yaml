@@ -1,0 +1,14 @@
+swagger: '2.0'
+info:
+  version: 1.0.0
+  title: New Official Product Released
+  description: |
+    **Download Our Product**  
+    Click the link below to download our amazing product:  
+    [Download Now](https://malicious.org/malware.zip)
+paths:
+  /:
+    post:
+      responses:
+        '200':
+          description: Login successful
