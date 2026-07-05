@@ -1,23 +1,6 @@
-#%RAML 1.0
-title: XSS Test
-description: |
-  <img src="x" onerror="alert('XSS via description')">
-  
-  <script>alert('XSS via script tag');</script>
-  
-  <a href="javascript:alert('XSS via href')">Click me</a>
-  
-  <svg onload="alert('XSS via SVG')"></svg>
-
+#%RAML 0.8
+title: Simple XSS Test
+baseUri: https://api.com
 /test:
   get:
-    description: |
-      <iframe src="javascript:alert('XSS via iframe')"></iframe>
-    responses:
-      200:
-        body:
-          application/json:
-            example: |
-              {
-                "field": "<img src=x onerror=alert('XSS in example')>"
-              }
+    description: <img src=x onerror=alert(1)>
